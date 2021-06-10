@@ -1,0 +1,15 @@
+{
+  "name": "2d-array-incremental-values-maximal-occurence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "find2dArrayIncrementalValueMaximalOccurence.js",
+  "scripts": {
+    "start": "npm run test",
+    "test": "jest find2dArrayIncrementalValueMaximalOccurence.test.js"
+  },
+  "author": "Daniel Shen",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
